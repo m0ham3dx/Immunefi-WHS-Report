@@ -4,28 +4,8 @@
 </a>
 </p>
 
-[![](./whsp.png)](https://twitter.com/m0ham3dxx/status/1517568791714349056?s=20&t=seiWKgLLKG4T4E-ymmmQSQ)
+[![](./whsp.png)](https://m0ham3dx-immunefiwhs-v001.netlify.app)
 
-----
-# TOC
-
-1. [TOC](#toc)
-2. [Repo Description](#repo-description)
-3. [Ebook Generation Tools](#ebook-generation-tools)
-4. [Contributions](#contributions)
-
-----
-
-# Repo Description 
-
-This repository is for the following [Report](https://m0ham3dx-immunefiwhs-v001.netlify.app/)
-
-# Ebook Generation Tools 
-
-This ebook was made with [Rust MDBOOK](https://rust-lang.github.io/mdBook/) & with [lib.rs mdbook plugins](https://lib.rs/search?q=mdbook)
-
-# Contributions 
-
-Please raise an issue, since I will not be very active in updating this ebook. 
-
-
+<h1 align=center>
+Click Image to access Report
+</p>
