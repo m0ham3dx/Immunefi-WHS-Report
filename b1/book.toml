@@ -1,6 +1,19 @@
 [book]
-authors = ["m0ham3d"]
+authors = ["m0ham3dx"]
 language = "en"
 multilingual = false
 src = "src"
 title = "m0ham3dx - Immunefi - White Hat Scholarship - Report"
+
+[output.html.playground]
+editable = false         # allows editing the source code
+copyable = true          # include the copy button for copying code snippets
+copy-js = true           # includes the JavaScript for the code editor
+line-numbers = true     # displays line numbers for editable code
+runnable = true          # displays a run button for rust code
+
+[output.html]
+mathjax-support = true # Enabling MathJax Support 
+git-repository-url = "https://github.com/m0ham3dx/Immunefi-WHS-Report"
+git-repository-icon = "fa-github"
+
