@@ -1,3 +1,4 @@
 # Summary
 
-- [Acknowledgements](./c1.md)
+- [🟩 Acknowledgements](./c1.md)
+- [🟧 Methodologies](./c2.md)
