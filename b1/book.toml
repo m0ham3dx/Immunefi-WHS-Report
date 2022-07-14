@@ -12,8 +12,14 @@ copy-js = true           # includes the JavaScript for the code editor
 line-numbers = true     # displays line numbers for editable code
 runnable = true          # displays a run button for rust code
 
+[preprocessor]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
 [output.html]
 mathjax-support = true # Enabling MathJax Support 
 git-repository-url = "https://github.com/m0ham3dx/Immunefi-WHS-Report"
 git-repository-icon = "fa-github"
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
 
